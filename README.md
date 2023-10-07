@@ -15,6 +15,11 @@ from clistyle import Color
 c = Color()
 
 print(c.YELLOW + "Test Colors" + c.RESET)
+print(c.BLUE + "Test Colors" + c.RESET)
+print(c.GREEN + "Test Colors" + c.RESET)
+print(c.CYAN + "Test Colors" + c.RESET)
+print(c.MAGENTA + "Test Colors" + c.RESET)
+print(c.RED + "Test Colors" + c.RESET)
 
 ```
-![Captura de tela de 2023-10-07 09-05-46](https://github.com/JuanBindez/clistyle/assets/79322362/dfe82bc5-185f-4ea7-8e54-4915050a7229)
+
