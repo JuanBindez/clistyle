@@ -1,5 +1,10 @@
 # Clistyle
 
+![PyPI - Downloads](https://img.shields.io/pypi/dm/clistyle)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/clistyle)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/clistyle)
+
+
 ### Python3 library for coloring command line interface.
 
 ## install:
