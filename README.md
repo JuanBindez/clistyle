@@ -5,7 +5,6 @@
 ![PyPI - Version](https://img.shields.io/pypi/v/clistyle)
 
 
-
 ### Python3 library for coloring command line interface.
 
 ## install:
