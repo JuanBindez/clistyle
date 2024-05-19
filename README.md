@@ -15,20 +15,11 @@
 
 ```python
 
-from clistyle import Color
+@Color.green
+def hello():
+    return "Hello, World!"
 
-c = Color()
-
-print(c.YELLOW + "Test Colors" + c.RESET)
-print(c.BLUE + "Test Colors" + c.RESET)
-print(c.GREEN + "Test Colors" + c.RESET)
-print(c.CYAN + "Test Colors" + c.RESET)
-print(c.MAGENTA + "Test Colors" + c.RESET)
-print(c.RED + "Test Colors" + c.RESET)
+print(hello())
 
 ```
-## Output:
-
-![Captura de tela de 2023-10-07 09-08-52](https://github.com/JuanBindez/clistyle/assets/79322362/3b754dda-e673-4948-a8fc-3fac442d52a9)
-
 
